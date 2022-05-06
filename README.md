@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: sshaaangg.tw@gmail.com
-- 🌱 I’m currently learning algorithms, data structures, programming language c, and system programming.
+- 🌱 I’m currently learning algorithms, data structures, programming language C, and system programming.
 <!--
 **sShaAanGg/sShaAanGg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
