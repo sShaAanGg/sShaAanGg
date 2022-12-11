@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: sshaaangg.tw@gmail.com
-- 🌱 I’m currently learning web development, programming language C, and system programming.
+- 🌱 I’m currently learning web development and system programming.
 <!-- - My Linkedin profile: www.linkedin.com/in/shang-chun
 - My HackMD profle: https://hackmd.io/@sShaAanGg -->
 <!--
