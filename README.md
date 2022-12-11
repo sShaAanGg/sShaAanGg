@@ -1,8 +1,12 @@
 ### Hi there 👋
 - 📫 How to reach me: sshaaangg.tw@gmail.com
 - 🌱 I’m currently learning web development and system programming, with a focus on compiler-related topics.
-<!-- - My Linkedin profile: www.linkedin.com/in/shang-chun
-- My HackMD profle: https://hackmd.io/@sShaAanGg -->
+
+<!-- flag: nonCTF{praise_the_☀️!}
+- My Linkedin profile: www.linkedin.com/in/shang-chun
+- My HackMD profle: https://hackmd.io/@sShaAanGg 
+-->
+
 <!--
 **sShaAanGg/sShaAanGg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
