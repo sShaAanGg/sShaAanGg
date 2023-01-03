@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 📫 How to reach me: sshaaangg.tw@gmail.com
 - 🌱 I’m currently learning web development and system programming, with a focus on compiler-related topics.
+- 📖 Some studies can be found here: https://hackmd.io/@sShaAanGg
 
 <!-- flag: nonCTF{praise_the_☀️!}
-- My Linkedin profile: www.linkedin.com/in/shang-chun
-- My HackMD profle: https://hackmd.io/@sShaAanGg 
+- 📖 Some studies can be found here: https://hackmd.io/@sShaAanGg
 -->
 
 <!--
