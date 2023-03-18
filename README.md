@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: sshaaangg.tw@gmail.com
-- 🌱 I’m currently learning web development and system programming, with a focus on compiler-related topics.
+- 🌱 I’m currently learning web development and system programming.
 - 📖 Some studies can be found here: https://hackmd.io/@sShaAanGg
 
 <!-- flag: nonCTF{praise_the_☀️!}
