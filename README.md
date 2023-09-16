@@ -1,7 +1,9 @@
+<!--
 ### Hi there 👋
 - 📫 How to reach me: sshaaangg.tw@gmail.com
 - 🌱 I’m currently learning web development and system programming.
 - 📖 Some studies can be found here: https://hackmd.io/@sShaAanGg
+-->
 
 <!-- flag: nonCTF{praise_the_☀️!}
 - 📖 Some studies can be found here: https://hackmd.io/@sShaAanGg
